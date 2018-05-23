@@ -1,0 +1,13 @@
+---
+name: LuckyPot
+main: LuckyPot\Main
+version: 1.2
+api:
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+author: BurritoMan46
+commands:
+  addpot:
+    desctiption: Adds a pot
+    permission: luckypot.addpot

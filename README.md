@@ -1,1 +1,2 @@
-# SD-RewardPots
+# LuckyPot
+LuckyPot
